@@ -1,0 +1,1 @@
+Una variable es vIsible solo dentro del contexto en el cual se lo declara -- Variables locales. 

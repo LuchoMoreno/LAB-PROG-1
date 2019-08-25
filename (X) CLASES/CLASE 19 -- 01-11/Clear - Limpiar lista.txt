@@ -1,0 +1,7 @@
+    
+/* -------------------- LIMPIAR LISTA --------------------
+
+        ll_clear(lista);
+        cantidad = ll_len(lista);
+        printf("\nCantidad de elementos: %d\n", cantidad);
+*/

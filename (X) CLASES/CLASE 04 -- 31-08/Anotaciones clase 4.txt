@@ -1,0 +1,2 @@
+Pasaje por valor: Se pasa el valor de la variable.
+Varible primitiva: Variable que fue declarada con tipo de dato primitivo. Aquellos tipos de datos que me ofrece el lenguaje.
